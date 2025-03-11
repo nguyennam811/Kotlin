@@ -81,5 +81,51 @@ fun main(args: Array<String>) {
         println("test do while $itemDoWhile")
         itemDoWhile++
     } while (itemDoWhile <= 0)
+
+    // kiểm tra biến null an toàn
+    var testNull : String? = null
+    // ? đánh dấu biến này có thể null
+    println(testNull)
+
+    var size = testNull?.length
+    println(size)
+
+//    var size1 = testNull!!.length
+//    println(size1)
+
+    var test123: String? = null
+    var size123 = test123?.length ?: "Biến này là null"
+    // ?: nếu là null thì hiện ta cái kia
+    println(size123)
+
+
+    val v1 = 5
+    val v2 = 1
+    max(v1, v2)
+
+    println(max1(v1, v2))
+
+    println(max2(v1, v2))
+
 }
+
+fun max(a: Int, b: Int) {
+    if (a > b) {
+        println("a lớn hơn b")
+    } else {
+        println(" a bé hơn b")
+    }
+}
+
+fun max1(a: Int, b: Int) : String {
+    if (a > b) {
+        return "a lớn hơn b"
+    } else {
+        return "a bé hơn b"
+    }
+}
+
+fun max2(a: Int, b: Int) : String =
+    if (a > b)  "a lớn hơn b"
+    else  "a bé hơn b"
 
