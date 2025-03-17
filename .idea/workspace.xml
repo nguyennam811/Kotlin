@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d274a24-7360-4d11-a0b2-70740e503c3b" name="Changes" comment="safe null variable check and fun">
+    <list default="true" id="4d274a24-7360-4d11-a0b2-70740e503c3b" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Main04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/class_object/Main05.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/var_val_loop_fun/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/var_val_loop_fun/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -47,31 +56,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/IntelliJ IDEA/Kotlin/LearnKotlin&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.Kotlin&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.Main04Kt.executor": "Run",
+    "Kotlin.Main05Kt.executor": "Run",
+    "Kotlin.MainKt (1).executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IntelliJ IDEA/Kotlin/LearnKotlin/src/main/kotlin/class_object",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.language.Kotlin",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\Kotlin\LearnKotlin\src\main\kotlin\class_object" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="class_object" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Main05Kt">
+    <configuration name="Main04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.Main04Kt" />
+      <module name="LearnKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.Main05Kt" />
+      <module name="LearnKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class_object.MainKt" />
+      <module name="LearnKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="var_val_loop_fun.MainKt" />
       <module name="LearnKotlin" />
@@ -81,6 +122,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main05Kt" />
+        <item itemvalue="Kotlin.Main04Kt" />
+        <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
@@ -106,7 +150,9 @@
       <workItem from="1741252128336" duration="274000" />
       <workItem from="1741254169777" duration="2857000" />
       <workItem from="1741685178242" duration="102000" />
-      <workItem from="1741685288879" duration="2831000" />
+      <workItem from="1741685288879" duration="3607000" />
+      <workItem from="1741701578293" duration="2000" />
+      <workItem from="1742230561973" duration="2816000" />
     </task>
     <task id="LOCAL-00001" summary="beginning with kotlin">
       <option name="closed" value="true" />
@@ -140,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741688140185</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <option name="closed" value="true" />
+      <created>1741688223953</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741688223953</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +216,8 @@
     <MESSAGE value="variable in Kotlin" />
     <MESSAGE value="loop in kotlin" />
     <MESSAGE value="safe null variable check and fun" />
-    <option name="LAST_COMMIT_MESSAGE" value="safe null variable check and fun" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
