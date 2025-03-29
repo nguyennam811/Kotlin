@@ -1,4 +1,4 @@
-package class_object
+package p2_class_object
 
 // khi khai báo biến var Kotlin sẽ thêm vào
 //var name:String = "abc"

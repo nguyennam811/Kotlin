@@ -1,4 +1,4 @@
-package inheritance_ISA_HASA_override
+package p3_inheritance_ISA_HASA_override
 
 //mặc định một lớp trong kotlin là không thể kế thừa
 //để 1 lớp trở thành lớp cha để kế thừa:

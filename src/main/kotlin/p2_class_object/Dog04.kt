@@ -1,17 +1,14 @@
-package class_object
+package p2_class_object
 
-//thứ tự khi khởi tạo đôi tượng
-// 1. khởi tạo biến của primary constructor
-// 2. thực thi khối init
-// 3. khởi ta biến và công việc secondary constructor
+//also(::println) là thuộc tính đợi xuất thông tin
 
-class Dog03 (name_para: String, weight_para: Int = 10) {
-    val name = name_para.uppercase()
-    var weight = weight_para
+class Dog04 (name_para: String, weight_para: Int = 10) {
+    val name = name_para.uppercase().also(::println)
+    var weight = weight_para.also(::println)
     var color: String? = null
 
     constructor(name: String, weight: Int, color: String) : this(name, weight) {
-        this.color = color
+        this.color = color.also(::println)
     }
 
     //initializer block : khi tạo 1 lớp muốn xuất ra 1 câu thông báo nào đó

@@ -1,4 +1,4 @@
-package class_object
+package p2_class_object
 
 class Dog(val name: String, var weight: Int = 10, val color: String ) {
     fun say(){

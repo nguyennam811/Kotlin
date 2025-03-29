@@ -1,4 +1,4 @@
-package class_object
+package p2_class_object
 
 //hàm khởi tạo thứ cấp:
 // nằm trong thân (body) của lớp

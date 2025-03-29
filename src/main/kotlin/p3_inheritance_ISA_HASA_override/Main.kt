@@ -1,4 +1,4 @@
-package inheritance_ISA_HASA_override
+package p3_inheritance_ISA_HASA_override
 
 fun main(args: Array<String>) {
     val mydog = Dog()

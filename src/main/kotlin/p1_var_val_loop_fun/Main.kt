@@ -1,4 +1,4 @@
-package var_val_loop_fun
+package p1_var_val_loop_fun
 
 fun main(args: Array<String>) {
     println("hello")

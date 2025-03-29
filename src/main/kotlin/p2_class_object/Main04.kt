@@ -1,4 +1,4 @@
-package class_object
+package p2_class_object
 
 fun main(args: Array<String>) {
     var myDog4 = Dog04("Lucky", 15, "Yellow")

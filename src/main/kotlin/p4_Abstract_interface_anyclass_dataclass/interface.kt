@@ -1,4 +1,4 @@
-package Abstract_interface_anyclass_dataclass
+package p4_Abstract_interface_anyclass_dataclass
 
 
 //Ko thể dùng để khởi tạo đối tượng

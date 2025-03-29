@@ -1,4 +1,4 @@
-package class_object
+package p2_class_object
 
 //hàm khởi tạo chính: là 1 phần của tiêu đề lớp và nó đi sau tên lớp và các tham số
 

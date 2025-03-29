@@ -1,6 +1,6 @@
-package Abstract_interface_anyclass_dataclass
+package p4_Abstract_interface_anyclass_dataclass
 
-//lớp trừu tuownfj sẽ ko tạo ra đối tượng
+//lớp trừu tượng sẽ ko tạo ra đối tượng
 
 //Đối với lớp trừu tượng mọi thuộc tính và phương thức khi cta khai báo trừu tượng
 // thì phải khởi tạo các thuộc tính và hiện thực các phương thức trong lớp con
