@@ -4,31 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d274a24-7360-4d11-a0b2-70740e503c3b" name="Changes" comment="abstract and interface Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_obj_enum_sealed_class/copanion_object_demo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_obj_enum_sealed_class/enum_class_demo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_obj_enum_sealed_class/object_demo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p5_obj_enum_sealed_class/sealed_class_demo.kt" afterDir="false" />
+    <list default="true" id="4d274a24-7360-4d11-a0b2-70740e503c3b" name="Changes" comment="object and enum class and sealed class">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/array_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/list_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/list_mutable_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/map_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/mutable_map_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/set_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/set_mutable_main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Abstract_interface_anyclass_dataclass/interface.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p4_Abstract_interface_anyclass_dataclass/interface.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Abstract_interface_anyclass_dataclass/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p4_Abstract_interface_anyclass_dataclass/main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Dog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Dog01.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Dog02.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Dog03.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Dog04.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Dog05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Dog05.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Main04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Main04.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/class_object/Main05.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p2_class_object/Main05.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance_ISA_HASA_override/Address.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p3_inheritance_ISA_HASA_override/Address.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance_ISA_HASA_override/Animal.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p3_inheritance_ISA_HASA_override/Animal.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance_ISA_HASA_override/BabyDog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p3_inheritance_ISA_HASA_override/BabyDog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance_ISA_HASA_override/Cat.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p3_inheritance_ISA_HASA_override/Cat.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance_ISA_HASA_override/Dog.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p3_inheritance_ISA_HASA_override/Dog.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance_ISA_HASA_override/Employee.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p3_inheritance_ISA_HASA_override/Employee.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/inheritance_ISA_HASA_override/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p3_inheritance_ISA_HASA_override/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/var_val_loop_fun/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/p1_var_val_loop_fun/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,17 +56,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Array_mainKt.executor": "Run",
     "Kotlin.Copanion_object_demoKt.executor": "Run",
     "Kotlin.Enum_class_demoKt.executor": "Run",
     "Kotlin.InterfaceKt.executor": "Run",
+    "Kotlin.List_mainKt.executor": "Run",
+    "Kotlin.List_mutable_mainKt.executor": "Run",
     "Kotlin.Main04Kt.executor": "Run",
     "Kotlin.Main05Kt.executor": "Run",
     "Kotlin.MainKt (1).executor": "Run",
     "Kotlin.MainKt (2).executor": "Run",
     "Kotlin.MainKt (3).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Map_mainKt.executor": "Run",
+    "Kotlin.Mutable_map_mainKt.executor": "Run",
     "Kotlin.Object_demoKt.executor": "Run",
     "Kotlin.Sealed_class_demoKt.executor": "Run",
+    "Kotlin.Set_mainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -91,7 +81,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/IntelliJ IDEA/Kotlin/LearnKotlin/src/main/kotlin/class_object",
+    "last_opened_file_path": "D:/IntelliJ IDEA/Kotlin/LearnKotlin/src/main/kotlin/p6_array_list_map_set",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -106,50 +96,44 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ IDEA\Kotlin\LearnKotlin\src\main\kotlin\p6_array_list_map_set" />
       <recent name="D:\IntelliJ IDEA\Kotlin\LearnKotlin\src\main\kotlin\class_object" />
     </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
       <recent name="class_object" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Sealed_class_demoKt">
-    <configuration name="Copanion_object_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p5_obj_enum_sealed_class.Copanion_object_demoKt" />
+  <component name="RunManager" selected="Kotlin.Set_mutable_mainKt">
+    <configuration name="List_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.List_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Enum_class_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p5_obj_enum_sealed_class.Enum_class_demoKt" />
+    <configuration name="List_mutable_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.List_mutable_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p4_Abstract_interface_anyclass_dataclass.InterfaceKt" />
+    <configuration name="Mutable_map_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.Mutable_map_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance_ISA_HASA_override.MainKt" />
+    <configuration name="Set_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.Set_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Object_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p5_obj_enum_sealed_class.Object_demoKt" />
-      <module name="LearnKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sealed_class_demoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p5_obj_enum_sealed_class.Sealed_class_demoKt" />
+    <configuration name="Set_mutable_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.Set_mutable_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Sealed_class_demoKt" />
-        <item itemvalue="Kotlin.Enum_class_demoKt" />
-        <item itemvalue="Kotlin.Copanion_object_demoKt" />
-        <item itemvalue="Kotlin.Object_demoKt" />
-        <item itemvalue="Kotlin.InterfaceKt" />
+        <item itemvalue="Kotlin.Set_mutable_mainKt" />
+        <item itemvalue="Kotlin.Set_mainKt" />
+        <item itemvalue="Kotlin.List_mutable_mainKt" />
+        <item itemvalue="Kotlin.List_mainKt" />
+        <item itemvalue="Kotlin.Mutable_map_mainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +176,15 @@
       <workItem from="1742886576010" duration="2618000" />
       <workItem from="1742954593449" duration="2460000" />
       <workItem from="1743228158603" duration="5784000" />
-      <workItem from="1743262917225" duration="4380000" />
+      <workItem from="1743262917225" duration="5710000" />
+      <workItem from="1743614727041" duration="119000" />
+      <workItem from="1743614858566" duration="3000" />
+      <workItem from="1743615095796" duration="61000" />
+      <workItem from="1743615185173" duration="76000" />
+      <workItem from="1743615268352" duration="33000" />
+      <workItem from="1743615322843" duration="64000" />
+      <workItem from="1743616576420" duration="431000" />
+      <workItem from="1743664317076" duration="5176000" />
     </task>
     <task id="LOCAL-00001" summary="beginning with kotlin">
       <option name="closed" value="true" />
@@ -258,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743242964293</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="object and enum class and sealed class">
+      <option name="closed" value="true" />
+      <created>1743267746808</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743267746808</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -284,7 +284,8 @@
     <MESSAGE value="Class and object" />
     <MESSAGE value="inheritance and IS-A and HAS-A and override" />
     <MESSAGE value="abstract and interface Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="abstract and interface Kotlin" />
+    <MESSAGE value="object and enum class and sealed class" />
+    <option name="LAST_COMMIT_MESSAGE" value="object and enum class and sealed class" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
