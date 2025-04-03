@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d274a24-7360-4d11-a0b2-70740e503c3b" name="Changes" comment="object and enum class and sealed class">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/array_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/list_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/list_mutable_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/map_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/mutable_map_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/set_main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p6_array_list_map_set/set_mutable_main.kt" afterDir="false" />
+    <list default="true" id="4d274a24-7360-4d11-a0b2-70740e503c3b" name="Changes" comment="array and list and set and map in Kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_anonymous_closure_higher_order_function/anonymous_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_anonymous_closure_higher_order_function/closure_fun_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p7_anonymous_closure_higher_order_function/higher_order_main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/p8_lambda_high_order_fun/lambda_basic.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,9 +53,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Anonymous_mainKt.executor": "Run",
     "Kotlin.Array_mainKt.executor": "Run",
+    "Kotlin.Closure_fun_mainKt.executor": "Run",
     "Kotlin.Copanion_object_demoKt.executor": "Run",
     "Kotlin.Enum_class_demoKt.executor": "Run",
+    "Kotlin.Higher_order_mainKt.executor": "Run",
     "Kotlin.InterfaceKt.executor": "Run",
     "Kotlin.List_mainKt.executor": "Run",
     "Kotlin.List_mutable_mainKt.executor": "Run",
@@ -73,6 +73,7 @@
     "Kotlin.Object_demoKt.executor": "Run",
     "Kotlin.Sealed_class_demoKt.executor": "Run",
     "Kotlin.Set_mainKt.executor": "Run",
+    "Kotlin.Set_mutable_mainKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -103,23 +104,23 @@
       <recent name="class_object" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Set_mutable_mainKt">
-    <configuration name="List_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.List_mainKt" />
+  <component name="RunManager" selected="Kotlin.Higher_order_mainKt">
+    <configuration name="Anonymous_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p7_anonymous_closure_higher_order_function.Anonymous_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_mutable_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.List_mutable_mainKt" />
+    <configuration name="Closure_fun_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p7_anonymous_closure_higher_order_function.Closure_fun_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mutable_map_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p6_array_list_map_set.Mutable_map_mainKt" />
+    <configuration name="Higher_order_mainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p7_anonymous_closure_higher_order_function.Higher_order_mainKt" />
       <module name="LearnKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Higher_order_mainKt" />
+        <item itemvalue="Kotlin.Closure_fun_mainKt" />
+        <item itemvalue="Kotlin.Anonymous_mainKt" />
         <item itemvalue="Kotlin.Set_mutable_mainKt" />
         <item itemvalue="Kotlin.Set_mainKt" />
-        <item itemvalue="Kotlin.List_mutable_mainKt" />
-        <item itemvalue="Kotlin.List_mainKt" />
-        <item itemvalue="Kotlin.Mutable_map_mainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +186,8 @@
       <workItem from="1743615322843" duration="64000" />
       <workItem from="1743616576420" duration="431000" />
       <workItem from="1743664317076" duration="5176000" />
+      <workItem from="1743676020672" duration="64000" />
+      <workItem from="1743690393145" duration="8543000" />
     </task>
     <task id="LOCAL-00001" summary="beginning with kotlin">
       <option name="closed" value="true" />
@@ -258,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743267746808</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="array and list and set and map in Kotlin">
+      <option name="closed" value="true" />
+      <created>1743676073017</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743676073017</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +296,8 @@
     <MESSAGE value="inheritance and IS-A and HAS-A and override" />
     <MESSAGE value="abstract and interface Kotlin" />
     <MESSAGE value="object and enum class and sealed class" />
-    <option name="LAST_COMMIT_MESSAGE" value="object and enum class and sealed class" />
+    <MESSAGE value="array and list and set and map in Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="array and list and set and map in Kotlin" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
